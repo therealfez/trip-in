@@ -1,0 +1,26 @@
+{
+  "name": "trip-in",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealfez/trip-in.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Fauz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealfez/trip-in/issues"
+  },
+  "homepage": "https://github.com/therealfez/trip-in#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
